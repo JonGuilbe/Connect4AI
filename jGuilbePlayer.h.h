@@ -1,0 +1,8 @@
+//
+// Created by reneg on 4/7/2016.
+//
+
+#ifndef FPFRAME_JGUILBEPLAYER_H_H
+#define FPFRAME_JGUILBEPLAYER_H_H
+
+#endif //FPFRAME_JGUILBEPLAYER_H_H

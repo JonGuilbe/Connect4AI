@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1459958539 source:c:\users\dmarino\desktop\connect4\con4lib.c
+	"con4lib.h"
+
+1459958175 c:\users\dmarino\desktop\connect4\con4lib.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1459960870 source:c:\users\dmarino\desktop\connect4\connect4.c
+	<stdlib.h>
+	<stdio.h>
+	"con4lib.h"
+	"arupsoldplayer.h"
+	"firstavailable.h"
+
+1459958178 c:\users\dmarino\desktop\connect4\arupsoldplayer.h
+	"con4lib.h"
+
+1459803321 c:\users\dmarino\desktop\connect4\firstavailable.h
+	"con4lib.h"
+
+1459960906 source:c:\users\dmarino\desktop\connect4\firstavailable.c
+	"firstavailable.h"
+
+1459961756 source:c:\users\dmarino\desktop\connect4\arupsoldplayer.c
+	"arupsoldplayer.h"
+
